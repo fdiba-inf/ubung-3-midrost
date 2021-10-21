@@ -25,7 +25,7 @@ public class NumberCounter {
 
         double average = sum / (positive + negative);
 
-        System.out.println("Positive numbers: " + positive + "\nNegative Numbers: " + negative
+        System.out.println("Positive numbers: " + positive + "\nNegative numbers: " + negative
                 + "\nSum: " + sum + "\nAverage: " + average);
     }
 }
